@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-# FPGA/SoC/Verilog/HLS
+# Minipupper
 
 This open-source site is designed to support the educational needs of students, engineers, and enthusiasts in the fields of FPGA/ASIC, SoC, and HLS. The content and lab exercises available here draw upon materials from several reputable sources with modifications, including workshops offered by AMD/Xilinx [link](https://www.amd.com/en/corporate/university-program/workshops.html), the "Parallel Programming for FPGAs" course [link](https://pp4fpgas.readthedocs.io/en/latest/index.html) at UCSD, "Digital Computer Design" course [link](https://www.coursesidekick.com/electrical-engineering/2115253) at Clemson, and the "Parallel Programming on FPGAs" course [link](https://sharclab.ece.gatech.edu/teaching/2023-spring-fpga/) at Georgia Tech. Educators are encouraged to incorporate these resources into their curriculum.
 
@@ -11,9 +11,9 @@ This open-source site is designed to support the educational needs of students, 
 
 - [Preparation](https://uri-nextlab.github.io/ParallelProgrammingLabs/docs/Vitis_HLS_Tutor)
 
-- [Verilog Labs](https://uri-nextlab.github.io/ParallelProgrammingLabs/docs/Verilog_Labs/)
+- [ROS2 Labs](https://uri-nextlab.github.io/ParallelProgrammingLabs/docs/Verilog_Labs/)
 
-- [FPGA/SoC Labs](https://uri-nextlab.github.io/ParallelProgrammingLabs/docs/Labs/)
+- [AI Labs](https://uri-nextlab.github.io/ParallelProgrammingLabs/docs/Labs/)
 
 - [HLS Labs](https://uri-nextlab.github.io/ParallelProgrammingLabs/docs/HLS_Labs/)
 
