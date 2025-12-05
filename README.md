@@ -1,2 +1,2 @@
-# ParallelProgammingLabs
-FPGA SoC Verilog HLS 
+# Minipupper Labs
+ROS2, AWS and AI
