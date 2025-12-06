@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Install Vitis
+title: setup minipupper v2
 parent: Preparation
 nav_order: 2.01
 ---
