@@ -17,7 +17,7 @@ You're not restricted to the following vendor, but it's an example of the produc
 
 ## Get Mimipupper V2 image
 
-Download VMimipupper V2 image [ubuntu 22.04 Download Page]((https://tuprd-my.sharepoint.com/:u:/g/personal/lbai_temple_edu/EYx-Jk2yPAFKrQ_8STaxqjwBiD1HJw8GQMWIcMAq6t8KRQ?e=yvpdk1). 
+Download VMimipupper V2 image [ubuntu 22.04 Download Page](https://tuprd-my.sharepoint.com/:u:/g/personal/lbai_temple_edu/EYx-Jk2yPAFKrQ_8STaxqjwBiD1HJw8GQMWIcMAq6t8KRQ?e=yvpdk1). 
 
 Download and install [Balena Etcher](https://etcher.balena.io/)<br>
 <img src="images/etcher_1.png" width="300">
