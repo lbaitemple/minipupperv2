@@ -1,9 +1,12 @@
 title: Minipupper Essential
 description: A starter for using and developing robotics using minipupper
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://lbaitemple.github.io
 baseurl: /minipupperv2
+
+plugins:
+  - jekyll-remote-theme
 
 aux_links:
   Template Repository: https://github.com/lbaitemple/minipupperv2
