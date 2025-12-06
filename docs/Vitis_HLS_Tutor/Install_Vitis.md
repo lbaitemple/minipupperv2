@@ -5,24 +5,23 @@ parent: Preparation
 nav_order: 2.01
 ---
 
-# Board and Vitis Installation Guide
+# Minipupper v2 Installation Guide
 
 Start here for courses.
 
-## Acquire PYNQ Z2 Board
+## Acquire Minipupper v2
 
 You're not restricted to the following vendor, but it's an example of the product you need. 
-[Example Purchase Link](https://www.newark.com/tul-corporation/1m1-m000127dvb/tul-pynq-z2-basic-kit-rohs-compliant/dp/69AC1754?st=tul-corporation)
+[Example Purchase Link](https://mangdang.store/products/mp2)
 
-## Register with AMD 
 
-Create your AMD account here: [AMD Account Registration](https://www.amd.com/en.html)
+## Get Mimipupper V2 image
 
-## Get Vitis Software
+Download VMimipupper V2 image [ubuntu 22.04 Download Page]((https://tuprd-my.sharepoint.com/:u:/g/personal/lbai_temple_edu/EYx-Jk2yPAFKrQ_8STaxqjwBiD1HJw8GQMWIcMAq6t8KRQ?e=yvpdk1). 
 
-Download Vitis™ Unified Software Platform 2023.2 from [Vitis Download Page](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis.html). Ensure your computer is compatible (Note: Apple Macs are not supported).
-
-Additional Info: Vitis is already installed on computers in Cadence Lab, Riggs B22.
+Download and install [Balena Etcher](https://etcher.balena.io/)<br>
+<img src="images/etcher_1.png" width="300">
+   
 
 Proceed with Vitis Installation.
 
