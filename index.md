@@ -9,13 +9,13 @@ This open-source site is designed to support the educational needs of students, 
 
 ## Contents:
 
-- [Preparation](https://uri-nextlab.github.io/ParallelProgrammingLabs/docs/Vitis_HLS_Tutor)
+- [Preparation](https://lbaitemple.github.io/minipupperv2/docs/minipupper)
 
-- [ROS2 Labs](https://uri-nextlab.github.io/ParallelProgrammingLabs/docs/Verilog_Labs/)
+- [ROS2 Labs](https://lbaitemple.github.io/minipupperv2/docs/Verilog_Labs/)
 
-- [AI Labs](https://uri-nextlab.github.io/ParallelProgrammingLabs/docs/Labs/)
+- [AI Labs](https://lbaitemple.github.io/minipupperv2/docs/Labs/)
 
-- [HLS Labs](https://uri-nextlab.github.io/ParallelProgrammingLabs/docs/HLS_Labs/)
+- [HLS Labs](https://lbaitemple.github.io/minipupperv2/docs/HLS_Labs/)
 
 # Acknowledgement
 
